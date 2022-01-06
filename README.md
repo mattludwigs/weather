@@ -17,6 +17,10 @@ To run
 dart run
 ```
 
+Result:
+
+![Weather report in terminal](assets/screen-shot.png)
+
 To build and run executable
 
 ```bash
