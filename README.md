@@ -1,7 +1,7 @@
 # Weather
 
-CLI to display the weather in your terminal using the `http://v2.wttr.in/`
-service.
+CLI to display your local weather in your terminal using the
+`http://v2.wttr.in/` service.
 
 Set up:
 
