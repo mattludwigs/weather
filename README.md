@@ -17,8 +17,10 @@ To run
 dart run
 ```
 
-To build executable
+To build and run executable
 
 ```bash
 dart compile exe bin/weather
+
+./bin/weather.exe
 ```
